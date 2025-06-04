@@ -16,7 +16,7 @@ Every log, experiment and tool I build will live here.
 
 ---
 
-## 📆 Progress log
+## Progress log
 
 | Day | Date       | Description                     |
 |-----|------------|---------------------------------|
@@ -24,7 +24,7 @@ Every log, experiment and tool I build will live here.
 
 ---
 
-## 🎯 Goal
+## Goal
 
 - Hit **€1,500/month by December 2025**
 - Reach **€5,000/month by June 2026**
@@ -32,7 +32,7 @@ Every log, experiment and tool I build will live here.
 
 ---
 
-## 🧰 Structure (coming soon)
+## Structure (coming soon)
 
 - `/logs/` – daily progress notes
 - `/tools/` – custom exploits, scripts, tools in Rust
