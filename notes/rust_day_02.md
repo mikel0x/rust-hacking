@@ -18,10 +18,10 @@ It was fun to explore how Rust works, even as a complete beginner who initially 
 
 Another thing I really liked was the helpfulness of the error messages. They were reall clear, which made learning easier.
 
-## ❓ Doubts / To review
+## Doubts / To review
 - Still not 100% clear on how `match` works behind the scenes
 - Want to understand more about how Cargo pulls crates from crates.io
 
-## 🔜 Next Steps
+## Next Steps
 - Chapter 3 of *The Rust Book* tomorrow
 - Start writing my own version of the game with a twist (maybe more tries or difficulty levels)
