@@ -24,15 +24,7 @@ Every log, experiment and tool I build will live here.
 
 ---
 
-## Goal
-
-- Hit **€1,500/month by December 2025**
-- Reach **€5,000/month by June 2026**
-- Become a highly-skilled Rust dev and security expert
-
----
-
-## Structure (coming soon)
+## Structure
 
 - `/logs/` – daily progress notes
 - `/tools/` – custom exploits, scripts, tools in Rust
