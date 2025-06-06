@@ -16,14 +16,6 @@ Every log, experiment and tool I build will live here.
 
 ---
 
-## Progress log
-
-| Day | Date       | Description                     |
-|-----|------------|---------------------------------|
-| 1   | 2025-06-04 | GitHub repo created. Installed Rust and compiled first program. |
-
----
-
 ## Structure
 
 - `/logs/` – daily progress notes
